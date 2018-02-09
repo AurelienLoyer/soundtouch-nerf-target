@@ -5,12 +5,15 @@
 Create your own nerf target, if you don't like the music played on the Soundtouch !
 Just hit the target 🎯 and the code will send a next music event ⏭️ !
 
+If you hit the target, the blue led turn on 💡and you need to wait 30 seconde before switch to next music. 
+When the blue led turn off you can 🔫 shoot again.
+
 If you are bad with 🎯🔫 Nerf:
 you can use the great [Soundtouch Chrome Extension](https://chrome.google.com/webstore/detail/soundtouch-chrome-extensi/gapfkijlllenhmgddoldcfedfiiakfgg) 👍😬
 
 ## Configuration
 
-Edit the SoundTouch IP :
+Edit the Soundtouch IP :
 
 ```cpp
 
@@ -24,7 +27,6 @@ const String soundtouchIP = "10.0.10.166";
 <img src="img/schematics.png" width="500"/> 
 
 ## Preview
-
 <img src="img/preview/IMG_1.JPG" width="350"/> <img src="img/preview/IMG_2.JPG" width="350"/> <img src="img/preview/IMG_3.JPG" width="350"/>
 
 ## Stuff
@@ -32,10 +34,12 @@ const String soundtouchIP = "10.0.10.166";
 Simple stuff
 
 #### Yun
+[Link](http://amzn.to/2C8DCeO)
 ...
 
 #### Fast Vibration Sensor Switch
-<img src="img/stuff/Fast Vibration Sensor Switch 2.jpg" width="150"/> <img src="img/stuff/Fast Vibration Sensor Switch.jpg" width="150"/>
+[Link](http://amzn.to/2nTJZ0w)
+<img src="img/stuff/Fast Vibration Sensor Switch 2.jpg" width="200"/> <img src="img/stuff/Fast Vibration Sensor Switch.jpg" width="200"/>
 
 #### Led
 ...
