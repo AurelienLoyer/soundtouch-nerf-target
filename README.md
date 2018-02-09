@@ -34,14 +34,19 @@ const String soundtouchIP = "10.0.10.166";
 Simple stuff
 
 #### Yun
-[Link](http://amzn.to/2C8DCeO)
+
 ...
 
+[Link](http://amzn.to/2C8DCeO)
+
 #### Fast Vibration Sensor Switch
+
 [Link](http://amzn.to/2nTJZ0w)
+
 <img src="img/stuff/Fast Vibration Sensor Switch 2.jpg" width="200"/> <img src="img/stuff/Fast Vibration Sensor Switch.jpg" width="200"/>
 
 #### Led
+
 ...
 
 ## TODO
