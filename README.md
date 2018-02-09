@@ -5,8 +5,6 @@
 Create your own nerf target if you don't like the music played on the Soundtouch !
 Just hit the target 🎯 and the code will send a next music event ⏭️ !
 
-<br><br>
-
 If you are bad with 🎯🔫 Nerf:
 you can use the great [Soundtouch Chrome Extension](https://chrome.google.com/webstore/detail/soundtouch-chrome-extensi/gapfkijlllenhmgddoldcfedfiiakfgg) 👍😬
 
@@ -30,6 +28,7 @@ const String soundtouchIP = "10.0.10.166";
 ## TODO
 
 - [ ] SCHEMATICS
+- [ ] Edit next time lock
 - [ ] Clean code
 - [ ] Log shoot 
 - [ ] News features ?
