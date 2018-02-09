@@ -19,15 +19,29 @@ const String soundtouchIP = "10.0.10.166";
 
 ```
 
+## Schematics
+
+<img src="img/schematics.png" width="350"/> 
+
 ## Preview
 
-<img src="img/IMG_1.JPG" width="350"/>
-<img src="img/IMG_2.JPG" width="350"/>
-<img src="img/IMG_3.JPG" width="350"/>
+<img src="img/preview/IMG_1.JPG" width="350"/> <img src="img/preview/IMG_2.JPG" width="350"/> <img src="img/preview/IMG_3.JPG" width="350"/>
+
+## Stuff
+
+Simple stuff
+
+#### Yun
+...
+
+#### Fast Vibration Sensor Switch
+<img src="img/stuff/Fast Vibration Sensor Switch 2.jpg" width="150"/> <img src="img/stuff/Fast Vibration Sensor Switch.jpg" width="150"/>
+
+#### Led
+...
 
 ## TODO
 
-- [ ] SCHEMATICS
 - [ ] Edit next time lock
 - [ ] Clean code
 - [ ] Log shoot 
