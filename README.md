@@ -2,7 +2,7 @@
 
 ## Description
 
-Create your own nerf target if you don't like the music played on the Soundtouch !
+Create your own nerf target, if you don't like the music played on the Soundtouch !
 Just hit the target 🎯 and the code will send a next music event ⏭️ !
 
 If you are bad with 🎯🔫 Nerf:
