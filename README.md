@@ -21,7 +21,7 @@ const String soundtouchIP = "10.0.10.166";
 
 ## Schematics
 
-<img src="img/schematics.png" width="350"/> 
+<img src="img/schematics.png" width="500"/> 
 
 ## Preview
 
